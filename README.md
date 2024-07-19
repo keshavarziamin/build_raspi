@@ -1,2 +1,2 @@
 # build_raspi
-Building embedded linux for rapberry pi 4
+Building embedded linux for raspberry pi 4
